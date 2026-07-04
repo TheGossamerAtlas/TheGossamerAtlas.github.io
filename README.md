@@ -1,2 +1,28 @@
-# TheGossamerAtlas.github.io
-🌿 The Gossamer Atlas • Curated assets for a slower, beautiful life. Discover our tiny corners of creativity:✨ Whimsical Storybooks &amp; Journals🥞 Aesthetic Planners &amp; Notion Templates🎨 Soft, Minimalist Printable Wall Art🧸 Cozy Clipart &amp; PDF BundlesThank you for supporting independent digital art! Direct global checkout. Safe &amp; legal processing. ✨
+# 🧭 The Gossamer Atlas
+
+`https://github.io`
+
+*A quiet, curated space for digital art & intentional design.*
+
+---
+
+🌿 Current Musings
+
+ 🎨 Creative Studio • Active
+* First Release Premium Aesthetic Printable Wall Art.
+* Details: High-resolution, 300 DPI digital print formatted for gentle, pastel physical spaces.
+
+🧬 Medical Writing Hub • Future
+* Status: In development. 
+* Vision: Evidence-based healthcare articles, scientific literature reviews, and clinical journal editing solutions.
+
+---
+
+ ⚙️ The Framework
+
+* 🍦 Palette: Soft cream tones blended with calming sage green.
+* 🕊️ Hosting: Powered natively and cleanly by GitHub Pages.
+* 💳 Bridges: Seamlessly built to connect with Payoneer and nsave global accounts.
+
+---
+Crafted with intention from Bangladesh.✨
